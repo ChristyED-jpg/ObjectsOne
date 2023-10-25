@@ -11,7 +11,9 @@ class Person {
         this.age = age;
         this.height = height;
     }  // Declare and initialize an object
-    Person person1 = new Person("John", 30,180);
 
+    public int getHeight() {
+         return height;
+    }
 }
 
