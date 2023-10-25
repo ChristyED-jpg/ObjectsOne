@@ -14,6 +14,7 @@ class Person {
 
     public int getHeight() {
          return height;
+
     }
 }
 
